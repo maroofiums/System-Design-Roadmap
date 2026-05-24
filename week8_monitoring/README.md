@@ -170,10 +170,9 @@ error.log
 ## Learn Latency
 
 Latency = time taken to return prediction
-$
+```math
 Latency = t_{response} - t_{request}
-$
----
+```
 
 ## Practice
 
