@@ -1,0 +1,4 @@
+Input=10, Prediction=positive
+Input=2, Prediction=negative
+Input=5, Prediction=negative
+Input=-10, Prediction=negative

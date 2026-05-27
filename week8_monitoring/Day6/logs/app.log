@@ -1,0 +1,7 @@
+Request received: 10, Route: /predict
+Request received: 2, Route: /predict
+Request received: 5, Route: /predict
+Request received: 30, Route: /predict
+Request received: -10, Route: /predict
+Metrics endpoint called successfully
+Metrics endpoint called successfully
