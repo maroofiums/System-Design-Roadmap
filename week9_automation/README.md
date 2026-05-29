@@ -216,7 +216,7 @@ def retrain():
 
 # Goal
 
-Automatically run retraining every X minutes/hours.
+Automatically run retraining every `N` minutes/hours.
 
 ---
 
@@ -252,7 +252,7 @@ scheduler.start()
 
 | Type     | Usage           |
 | -------- | --------------- |
-| Interval | Every X minutes |
+| Interval | Every `N` minutes |
 | Cron     | Daily/hourly    |
 | Date     | One-time        |
 
@@ -520,32 +520,32 @@ Deployment Complete
 
 ### Training Automation
 
-* <input type="checkbox" disabled checked> Auto retraining
-* <input type="checkbox" disabled checked> Scheduled jobs
-* <input type="checkbox" disabled checked> Logging
+* <input type="checkbox" disabled> Auto retraining
+* <input type="checkbox" disabled> Scheduled jobs
+* <input type="checkbox" disabled> Logging
 
 ---
 
 ### Model Management
 
-* <input type="checkbox" disabled checked> Model versioning
-* <input type="checkbox" disabled checked> Best model tracking
-* <input type="checkbox" disabled checked> Artifact saving
+* <input type="checkbox" disabled> Model versioning
+* <input type="checkbox" disabled> Best model tracking
+* <input type="checkbox" disabled> Artifact saving
 
 ---
 
 ### Deployment
 
-* <input type="checkbox" disabled checked> FastAPI inference
-* <input type="checkbox" disabled checked> Dynamic model loading
-* <input type="checkbox" disabled checked> Docker support
+* <input type="checkbox" disabled> FastAPI inference
+* <input type="checkbox" disabled> Dynamic model loading
+* <input type="checkbox" disabled> Docker support
 
 ---
 
 ### CI/CD
 
-* <input type="checkbox" disabled checked> GitHub Actions
-* <input type="checkbox" disabled checked> Tests
-* <input type="checkbox" disabled checked> Auto validation
+* <input type="checkbox" disabled> GitHub Actions
+* <input type="checkbox" disabled> Tests
+* <input type="checkbox" disabled> Auto validation
 
 ---
