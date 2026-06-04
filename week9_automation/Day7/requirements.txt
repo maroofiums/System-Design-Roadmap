@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+joblib
+apscheduler
+mlflow
+pytest
+httpx
